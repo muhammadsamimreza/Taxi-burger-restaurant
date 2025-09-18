@@ -3,8 +3,8 @@
 }
 .bg-style {
   background: linear-gradient(rgba(255, 252, 252, 0.884), rgba(255, 252, 252)),
-    /* solid red overlay */ url('../assets/bg.png'); /* background image */
-  background-size: 400px; /* make image cover full area */
-  background-position: center; /* center the image */
+    url("../assets/bg.png");
+  background-size: 400px;
+  background-position: center;
   background-attachment: fixed;
 }
